@@ -9,7 +9,8 @@
         "fabpot/php-cs-fixer": "0.5.*",
         "squizlabs/php_codesniffer": "2.*",
         "phpmd/phpmd": "2.*",
-        "phpdocumentor/phpdocumentor": "2.6.1"
+        "phpdocumentor/phpdocumentor": "2.6.1",
+        "sebastian/phpdcd": "*"
     },
     "license": "MIT",
     "authors": [
