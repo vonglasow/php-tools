@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0dba8215b05faafb50e6b94d75fac1a1",
+    "hash": "808bc3cea16d018c64ac7fde93620608",
     "packages": [
         {
             "name": "atoum/atoum",
@@ -2238,12 +2238,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "fdec95eb2eed12b66641add1ce66b3e5b330016d"
+                "reference": "0f0063f283597359ea5cb4e1afdf1a14b0ac5038"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/fdec95eb2eed12b66641add1ce66b3e5b330016d",
-                "reference": "fdec95eb2eed12b66641add1ce66b3e5b330016d",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/0f0063f283597359ea5cb4e1afdf1a14b0ac5038",
+                "reference": "0f0063f283597359ea5cb4e1afdf1a14b0ac5038",
                 "shasum": ""
             },
             "require": {
@@ -2292,7 +2292,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-08-14 14:32:24"
+            "time": "2014-09-01 22:04:32"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -3058,12 +3058,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "766d1f78bdccc01617e9f9296fc5abaf55feac61"
+                "reference": "db414fb0f315faec9fd4bbfc0394ebfabdc26640"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/766d1f78bdccc01617e9f9296fc5abaf55feac61",
-                "reference": "766d1f78bdccc01617e9f9296fc5abaf55feac61",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/db414fb0f315faec9fd4bbfc0394ebfabdc26640",
+                "reference": "db414fb0f315faec9fd4bbfc0394ebfabdc26640",
                 "shasum": ""
             },
             "require": {
@@ -3123,7 +3123,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2014-09-01 05:29:42"
+            "time": "2014-09-01 23:11:51"
         },
         {
             "name": "symfony/config",
@@ -4383,14 +4383,22 @@
             "time": "2013-12-19 11:40:00"
         }
     ],
-    "packages-dev": [],
-    "aliases": [],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
     "minimum-stability": "dev",
     "stability-flags": {
         "atoum/atoum": 20,
         "halleck45/phpmetrics": 20
     },
     "prefer-stable": false,
-    "platform": [],
-    "platform-dev": []
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
 }

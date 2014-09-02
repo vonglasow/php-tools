@@ -43,6 +43,7 @@ clean:
 	rm -rf vendor
 	rm -rf composer
 	rm -rf phpcs-security-audit
+	rm -rf bin
 
 .PHONY: clean update check help
 
