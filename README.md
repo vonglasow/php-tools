@@ -13,3 +13,8 @@ make
 ```
 
 You can add the bin folder into your $PATH
+
+Contributions
+=============
+If you want to contribute to this repository make a PR to add a tools in
+composer.json
