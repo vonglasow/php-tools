@@ -11,7 +11,10 @@
         "phpmd/phpmd": "2.*",
         "phpdocumentor/phpdocumentor": "2.6.1",
         "sebastian/phpdcd": "*",
-        "halleck45/phpmetrics": "@dev"
+        "halleck45/phpmetrics": "@dev",
+        "phploc/phploc": "2.0.*@dev",
+        "theseer/fdomdocument": "1.5.0",
+        "sebastian/phpcpd": "2.0.1"
     },
     "license": "MIT",
     "authors": [
