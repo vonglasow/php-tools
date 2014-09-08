@@ -26,7 +26,7 @@ composer:
 	$(shell curl -sS https://getcomposer.org/installer | php > /dev/null 2>&1)
 	$(shell mv ./composer.phar composer)
 
-phpcs-security-audit:
+phpcs-security-audit: vendor
 	@git clone https://github.com/Pheromone/phpcs-security-audit.git
 	@ln -s `pwd`/phpcs-security-audit/Security vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/Security
 
