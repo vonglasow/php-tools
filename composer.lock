@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0f2eebf912ab1c3c12fc0b9d86293733",
+    "hash": "139d04575b14390baf98edd9e062dbc1",
     "packages": [
         {
             "name": "atoum/atoum",
-            "version": "1.2.2",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/atoum/atoum.git",
-                "reference": "b3a101d3dcd6cc294df70bdfb3cc75b3c76ff29a"
+                "reference": "84220013abd7917f04007d24c075eb2e7bd00b4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atoum/atoum/zipball/b3a101d3dcd6cc294df70bdfb3cc75b3c76ff29a",
-                "reference": "b3a101d3dcd6cc294df70bdfb3cc75b3c76ff29a",
+                "url": "https://api.github.com/repos/atoum/atoum/zipball/84220013abd7917f04007d24c075eb2e7bd00b4d",
+                "reference": "84220013abd7917f04007d24c075eb2e7bd00b4d",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +40,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.x-dev"
+                    "dev-master": "2.x-dev"
                 }
             },
             "autoload": {
@@ -83,7 +83,7 @@
                 "test",
                 "unit testing"
             ],
-            "time": "2015-01-12 13:54:27"
+            "time": "2015-07-31 14:17:00"
         },
         {
             "name": "cilex/cilex",
